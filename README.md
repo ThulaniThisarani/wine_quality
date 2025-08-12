@@ -80,11 +80,7 @@ The dataset offers real-world tabular data with balanced features and a clear pr
 
 ---
 
-## 🖼 Screenshots
 
-*(Add actual screenshots here)*  
-
----
 
 ## 📚 Learning Outcomes
 
@@ -109,3 +105,4 @@ pip install -r requirements.txt
 
 # Run Streamlit app
 streamlit run app.py
+
